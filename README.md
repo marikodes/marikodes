@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marikodes
-- 👀 I’m interested in animation, 3D modeling, and programming
-- 🌱 I’m currently learning Python, Blender Geometry Nodes, and fundamentals of animation.
+- 👀 I’m interested in animation/cartoons, 3D modeling, and programming
+- 🌱 I’m currently learning Python, Blender, and fundamentals of animation.
 - 💞️ I’m looking to collaborate on coding projects in service of artists' needs.
 - 📫 How to reach me: on Twitter(https://twitter.com/MariamazingArt) or IG(https://www.instagram.com/mariamazingart/)
 
